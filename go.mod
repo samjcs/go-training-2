@@ -1,6 +1,6 @@
 module wse5947
 
-go 1.15
+go 1.19
 
 require (
 	github.com/dsnet/compress v0.0.1
